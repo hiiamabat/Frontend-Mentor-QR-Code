@@ -21,26 +21,26 @@ h1 {
   font-size: 1.375rem;
   color: #1f314f;
   text-align: center;
-  margin: 20px 0;
+  margin: 0.625em 0;
 }
 
 .main-QR {
   background: #fff;
   width: 320px;
-  padding: 20px;
+  padding: 1.25em 1.25em 3em 1.25em;
   border-radius: 10px;
   box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.1);
 }
 
 .QR-code > img {
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 1.25em;
   border-radius: 10px;
 }
 
 .attribution {
-  margin-top: 2rem;
-  font-size: 11px;
+  margin-top: 2em;
+  font-size: 0.688rem;
   text-align: center;
 }
 .attribution a {
